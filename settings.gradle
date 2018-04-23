@@ -1,0 +1,3 @@
+include ':app', ':WhyWaitLogin', ':demo', ':library'
+project(':demo').projectDir = new File('app/libs/android-maps-utils-master/android-maps-utils-master/demo')
+project(':library').projectDir = new File('app/libs/android-maps-utils-master/android-maps-utils-master/library')

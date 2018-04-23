@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">452410872924-rrmkmd4q5dlm2sdt1c50tdcvnr7vn4ro.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">452410872924</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3vCOSrHyO8jWHxY8yQrrJhkJ7lHMwxD4</string>
+    <string name="google_app_id" translatable="false">1:452410872924:android:8459a670395294d9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3vCOSrHyO8jWHxY8yQrrJhkJ7lHMwxD4</string>
+    <string name="project_id" translatable="false">firebase-whywait</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452410872924",
+    "project_id": "firebase-whywait"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452410872924:android:8459a670395294d9",
+        "android_client_info": {
+          "package_name": "com.examples.whywait.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452410872924-uphlp5dbv4d5eb2ikr3t7vuu66u75roi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miked.whywait",
+            "certificate_hash": "919a1c13ac3743626bbd3185e810ec0ddcdd82df"
+          }
+        },
+        {
+          "client_id": "452410872924-rrmkmd4q5dlm2sdt1c50tdcvnr7vn4ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vCOSrHyO8jWHxY8yQrrJhkJ7lHMwxD4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

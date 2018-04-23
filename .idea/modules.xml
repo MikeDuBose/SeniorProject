@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WhyWait.iml" filepath="$PROJECT_DIR$/WhyWait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhyWaitLogin/WhyWaitLogin.iml" filepath="$PROJECT_DIR$/WhyWaitLogin/WhyWaitLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/android-maps-utils-master/android-maps-utils-master/demo/demo.iml" filepath="$PROJECT_DIR$/app/libs/android-maps-utils-master/android-maps-utils-master/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/android-maps-utils-master/android-maps-utils-master/library/library.iml" filepath="$PROJECT_DIR$/app/libs/android-maps-utils-master/android-maps-utils-master/library/library.iml" />
+    </modules>
+  </component>
+</project>

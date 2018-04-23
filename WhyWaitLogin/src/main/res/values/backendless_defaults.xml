@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- for Backendless -->
+	<string name="backendless_AppId">69C2D3F7-2716-5883-FFCC-F1D61C724200</string>
+	<string name="backendless_ApiKey">19AAF812-317D-572D-FFAE-00EB4E0ACD00</string>
+	<string name="backendless_ApiHost">https://api.backendless.com</string>
+</resources>
+		
